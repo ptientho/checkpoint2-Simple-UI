@@ -1,0 +1,14 @@
+<launch>
+
+
+<node pkg="robot_gui"
+        name="Robot_gui"
+        type="robot_gui_node"
+        output="screen"></node>
+
+<node pkg="robot_info" name="RobotManager" type="agv_robot_info_node" output="screen"></node>
+<node pkg="distance_tracker_service" name="distance_tracker" type="distance_tracker_service" output="screen"></node>
+
+
+
+</launch>
