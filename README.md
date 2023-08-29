@@ -14,6 +14,6 @@
 
     rosrun robot_gui robot_gui_node
 
-<img title="simple_gui" alt="simple_gui" src="https://drive.google.com/file/d/155SJqiTnaDWYhHI92d45vlONWEfeVqu_/view?usp=sharing">
+<img title="simple_gui" alt="simple_gui" src="[https://drive.google.com/file/d/155SJqiTnaDWYhHI92d45vlONWEfeVqu_/view?usp=sharing](https://github.com/ptientho/checkpoint2-Simple-UI/blob/main/Screen%20Shot%202023-08-28%20at%2010.31.50%20PM.png)">
 
 [![checkpoint2](https://res.cloudinary.com/marcomontalbano/image/upload/v1693275453/video_to_markdown/images/google-drive--15kCG7VbqxIC1LQjUXG6KEPdrLts4MrV6-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/15kCG7VbqxIC1LQjUXG6KEPdrLts4MrV6/view?usp=sharing "checkpoint2")
