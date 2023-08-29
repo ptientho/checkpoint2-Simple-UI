@@ -8,11 +8,11 @@
 
 <p>To run the code, follow the commands</p>
 
-  rosrun robot_info agv_robot_info_node
+    rosrun robot_info agv_robot_info_node
 
-  rosrun distance_tracker_service distance_tracker_service
+    rosrun distance_tracker_service distance_tracker_service
 
-  rosrun robot_gui robot_gui_node
+    rosrun robot_gui robot_gui_node
 
 ![simple_gui](https://drive.google.com/file/d/155SJqiTnaDWYhHI92d45vlONWEfeVqu_/view?usp=sharing)
 
