@@ -4,8 +4,11 @@
 
 <p>Create a simple GUI to control the MIR robot manually. Users can control the robot's forward and backward movement and its rotation. Also users can call a distance tracker service to read how far the robot has traveled.</p>
 
-<p>This project uses the CVUI library to create a simple GUI reference from https://dovyski.github.io/cvui/</p>
+<p>This project uses the CVUI library to create a simple GUI reference from https://dovyski.github.io/cvui/<br>
+Unpause the simulation before launching the code.</p>
 
+    rosservice call /gazebo/unpause_physics
+    
 <p>To run the code, follow the commands</p>
 
     rosrun robot_info agv_robot_info_node
